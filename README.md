@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning programming lanuguages
 - 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me shiva1507004@gmail.com
-- 😄 Pronouns: Orion
-- ⚡ Fun fact:  Lifelong Learner ^_~
+- ⚡ Lifelong Learner ^_~
 
 --->
